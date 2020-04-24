@@ -37,7 +37,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 5,
+    "uniqCompNum": 10,
     "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -57,7 +57,8 @@
         "meta_descr": "Here you see best offer on best products from \nFlipkart,Amazon,Myntra,jabong etc websites.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "file:///C:/Program%20Files%20(x86)/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise4/components/header2/../_images/background4.jpg"
       },
       "components": [
         {
